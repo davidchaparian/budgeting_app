@@ -16,5 +16,6 @@ func main() {
 		fmt.Println("Error reading CSV file: ", err.Error())
 		return
 	}
-	budgeting.ProcessCSVData(records)
+
+	budgeting.MostExpense(records)
 }
