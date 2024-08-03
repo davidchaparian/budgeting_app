@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/davidchaparian/budgeting_app/pkg/budgeting"
+	"github.com/mental-clarity/budgeting_app/pkg/budgeting"
 )
 
 func main() {
